@@ -1,0 +1,112 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	margin: 0 auto;
+	text-align: center;
+	background: url('https://assets.fodors.com/destinations/1128/skyline-manhattan-new-york-city-new-york-usa_main.jpg') center top no-repeat;
+	background-size: cover;
+	font-family: 'Aldrich', sans-serif;
+	color: white;
+	font-size: 20px;
+
+}
+#section_1 {
+	width: 100%;
+	height: 600px;
+	
+}
+div {
+	position: relative;
+}
+div.box h2 {
+	position: absolute;
+	right: 275px;
+	top: 29px;
+	font-family: 'Special Elite', cursive;
+	letter-spacing: 5px;
+	text-decoration: underline;
+	color: black;
+	font-size: 1.5em;
+
+
+
+}
+div.box p {
+	position: relative;
+	top: 15px;
+	left: -100px;
+	font-size: 37px;
+	font-family: 'Special Elite', cursive;
+	line-height: 29px;
+	color: black;
+	word-spacing: 05px;
+	
+
+
+
+}
+img {
+	width: 450px;
+	float: right;
+	height: 450px;
+	position: relative;
+	top: 17px;
+
+	
+}
+
+#container {
+	width: 800px;
+	margin: auto;
+}
+nav	{
+	
+	margin-bottom: 15px;
+	padding: 10px;
+	
+}
+a {
+	font-family: 'Black Ops One', cursive;
+
+	color: red;
+	text-decoration: none;
+	font-size: 33px;
+	color: white;
+	letter-spacing: 3px;
+	position: relative;
+	top: -10px;
+
+
+}
+a:hover {
+	font-size: 35px;
+	color: red;
+	
+}
+ul li:hover  {
+	border: solid 6px white;
+
+}
+ul li {
+	list-style: none;
+	padding: 5px 15px;
+	background: url('http://hdwpro.com/wp-content/uploads/2016/03/Black-Metallic-Wallpaper.png') top center no-repeat;
+	display: inline-block;
+	background-size: cover;
+	height: 25px;
+	font-weight: bold;
+	padding: 15px 30px;
+	margin: 0 10px 0 10px;
+	text-align: center;
+	position: relative;
+}
+#section_one h1 {
+	margin: 10px 0;
+}
+#section_one span {
+	color: red;
+	font-size: 1.2em;
+	text-decoration: underline;
+}
